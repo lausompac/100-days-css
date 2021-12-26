@@ -75,6 +75,7 @@ label {
 }
 
 #checkbox-menu:checked+label .line-2 {
+    transform: translate(6px, -10px);
     opacity: 0;
 }
 
